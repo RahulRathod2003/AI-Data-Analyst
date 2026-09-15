@@ -1,12 +1,26 @@
 import json
+import os
+
+from dotenv import load_dotenv
 from groq import Groq
+
+
+# ============================================================
+# LOAD ENVIRONMENT VARIABLES
+# ============================================================
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+ENV_FILE = os.path.join(BASE_DIR, ".env")
+
+load_dotenv(dotenv_path=ENV_FILE, override=True)
 
 
 # ============================================================
 # GROQ API KEY
 # ============================================================
-import os
+
 GROQ_API_KEY = os.getenv("GROQ_API_KEY")
+
 
 # ============================================================
 # GROQ CLIENT
