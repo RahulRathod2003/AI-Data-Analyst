@@ -1,0 +1,12 @@
+services:
+  ai-data-analyst:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: ai-data-analyst:v12
+    container_name: ai-data-analyst-app
+    ports:
+      - "8501:8501"
+    env_file:
+      - .env
+    restart: unless-stopped
