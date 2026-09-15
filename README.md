@@ -25,6 +25,11 @@ Instead of manually writing Python or SQL queries, users can ask questions such 
 The platform uses a Large Language Model to understand the user's question, converts it into a structured analysis plan, performs the actual computation using Pandas, generates interactive Plotly visualizations, and provides AI-powered business insights.
 
 
+## 🚀 Live Demo
+
+👉 [Open AI Data Analyst — Live Demo](https://ai-data-analyst-xhvy.onrender.com/)
+
+
 
 --
 
