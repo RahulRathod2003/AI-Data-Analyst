@@ -10,15 +10,15 @@ Instead of manually writing Python or SQL queries, users can ask questions such 
 
 
 
-\- What is the total sales?
+- What is the total sales?
 
-\- What are the top 5 products by sales?
+- What are the top 5 products by sales?
 
-\- What are the total sales by country?
+- What are the total sales by country?
 
-\- Which month had the highest sales?
+- Which month had the highest sales?
 
-\- What is the relationship between sales and profit?
+- What is the relationship between sales and profit?
 
 
 
@@ -26,11 +26,11 @@ The platform uses a Large Language Model to understand the user's question, conv
 
 
 
-\---
+--
 
 
 
-\# 1. 🚀 Project Overview
+ 1. 🚀 Project Overview
 
 
 
@@ -42,19 +42,19 @@ The main objective is to combine:
 
 
 
-\- Artificial Intelligence
+- Artificial Intelligence
 
-\- Data Analysis
+- Data Analysis
 
-\- Data Cleaning
+- Data Cleaning
 
-\- Exploratory Data Analysis
+- Exploratory Data Analysis
 
-\- Data Visualization
+- Data Visualization
 
-\- Business Intelligence
+- Business Intelligence
 
-\- Automated Reporting
+- Automated Reporting
 
 
 
@@ -66,11 +66,11 @@ The application allows users to move from raw CSV data to actionable insights th
 
 
 
-\---
+---
 
 
 
-\# 2. 🎯 Project Objectives
+2. 🎯 Project Objectives
 
 
 
@@ -78,25 +78,25 @@ The main objectives of this project are:
 
 
 
-1\. Allow users to upload CSV datasets.
+1. Allow users to upload CSV datasets.
 
-2\. Support analysis of multiple CSV files.
+2. Support analysis of multiple CSV files.
 
-3\. Automatically profile datasets.
+3. Automatically profile datasets.
 
-4\. Identify data-quality issues.
+4. Identify data-quality issues.
 
-5\. Provide data-cleaning functionality.
+5. Provide data-cleaning functionality.
 
-6\. Allow users to ask questions using natural language.
+6. Allow users to ask questions using natural language.
 
-7\. Convert natural-language questions into structured analysis plans.
+7. Convert natural-language questions into structured analysis plans.
 
-8\. Perform numerical calculations using Pandas.
+8. Perform numerical calculations using Pandas.
 
-9\. Generate interactive visualizations using Plotly.
+9. Generate interactive visualizations using Plotly.
 
-10\. Generate AI-powered business insights.
+10. Generate AI-powered business insights.
 
 11\. Provide conversational follow-up analysis.
 
@@ -2112,3 +2112,46 @@ This project is currently provided for educational and portfolio purposes.
 
 A formal open-source license can be added in a future version if required.
 
+## 10. Application Screenshots
+
+The application provides an end-to-end analytics workspace for exploring, cleaning, visualizing, and analyzing datasets.
+
+### 10.1 Main Dashboard
+
+![AI Data Analyst Dashboard](screenshots/dashboard.png)
+
+### 10.2 Executive Dashboard
+
+![Executive Dashboard](screenshots/executive-dashboard.png)
+
+### 10.3 Dataset Overview
+
+![Dataset Overview](screenshots/dataset-overview.png)
+
+### 10.4 Data Quality Assistant
+
+![Data Quality Assistant](screenshots/data-quality.png)
+
+### 10.5 Data Cleaning
+
+![Data Cleaning](screenshots/data-cleaning.png)
+
+### 10.6 Smart Data Filters
+
+![Smart Data Filters](screenshots/smart-filters.png)
+
+### 10.7 Automated EDA
+
+![Automated EDA](screenshots/automated-eda.png)
+
+### 10.8 Advanced Analytics
+
+![Advanced Analytics](screenshots/advanced-analytics.png)
+
+### 10.9 Ask Your Data
+
+![Ask Your Data](screenshots/ask-your-data.png)
+
+### 10.10 AI Analysis Result
+
+![AI Analysis Result](screenshots/ask-your-data-result.png)
